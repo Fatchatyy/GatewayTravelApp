@@ -1,0 +1,11 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$135c1523-c9ff-4c92-97cb-532e2c808413
+—
+java:S1128"VRemove this unused import 'com.esprit.microservices.reservation.Entities.Reservation'.(þíî‘ùÿÿÿÿJ$86e45c87-067e-48fd-90b6-4586f5ae301f
+›
+java:S1128"ZRemove this unused import 'com.esprit.microservices.reservation.Entities.ReservationType'.(ºµÐçÿÿÿÿÿJ$fe0d3b1f-17dc-4789-a922-75ca5c8d7ad3
+‚
+java:S1128"GRemove this unused import 'org.springframework.boot.ApplicationRunner'.(ÃëòNJ$5b64c6e5-cd8b-414b-aae6-85e5aacf984c
+„
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰ÞJ$1e769a47-c1cd-46cf-afe4-16e7d5e06a8a

@@ -1,0 +1,9 @@
+
+
+java:S1128"QRemove this unused import 'org.springframework.cloud.gateway.route.RouteLocator'.(å€üØJ$51115c74-d728-40d7-af6d-56ad7ab1737c
+›
+java:S1128"`Remove this unused import 'org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder'.(“›ó#J$8eb71615-1752-4410-a19a-40e079a132f8
+™
+java:S1128"XRemove this unused import 'org.springframework.cloud.netflix.eureka.EnableEurekaClient'.(´÷ÎÉüÿÿÿÿJ$e5334ad7-7bfe-4e82-8b94-aeb0b01d132b
+„
+java:S1128	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰ŞJ$f9587751-21cc-45bc-9b68-8d534c653902

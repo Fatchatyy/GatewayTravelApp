@@ -1,0 +1,13 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΡρνJ$8130b4a3-4eac-4395-bdfb-2fa80efb4cde
+	java:S116"PRename this field "Rtype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³άγώÿÿÿÿJ$98da7962-2fdb-4172-8581-5deeb64640a9
+	java:S116"SRename this field "Location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ω‰ΔJ$ce570570-3363-413e-a366-7349c5b5ccf7
+
+java:S1128"KRemove this unused import 'com.fasterxml.jackson.annotation.JsonAnyGetter'.(‹Ώ«™ωÿÿÿÿJ$747e7af5-0ad4-41ed-ab18-5a75339ea32d
+y
+java:S1128
+"=Remove this unused import 'javax.persistence.GenerationType'.(ύχυ΅J$ed9f82b5-40cd-45c2-9b56-8a7788748b87
+k
+java:S1128"*Remove this unused import 'java.sql.Time'.(άε»‰ώÿÿÿÿJ$cf88bea3-1343-4bb3-8701-96a9a44ecb88
+g
+java:S1128"+Remove this unused import 'java.util.Date'.(Έ…ΌόJ$8a5e55b7-b539-43f3-8b5d-9710896a8c6a

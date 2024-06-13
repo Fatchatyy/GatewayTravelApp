@@ -1,0 +1,9 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Äœ_J$2d49621b-4eb8-460c-9eaa-dc34d3b1fac4
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$b7bba313-61e1-45ae-9ce6-0e3ba340fd81
+f	java:S106"+Replace this use of System.out by a logger.(›æŒÁJ$f3c8509b-d925-4dcd-9853-ec1a560ac668
+
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÿ¿óÕÿÿÿÿÿJ$662199d8-7152-4e97-b1cb-c86fafbff59f
+|
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(‚ô¿ÏJ$ddd9f2bc-3d12-42d1-bee1-c84cdb0a65b3
